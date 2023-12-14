@@ -1,12 +1,12 @@
-# Netlfix-Prediction-Engine
+# Netflix-Prediction-Engine
 ## required libraries                
                   
 ### numpy  
-pip install numpy
+        pip install numpy
 ### pandas  
-pip install pandas  
+        pip install pandas  
 ### sklearn  
-pip install sklearn  
+        pip install sklearn  
 ### nltk  
 pip install nltk
   
