@@ -1,14 +1,14 @@
 # Netflix-Prediction-Engine
-## required libraries                
-                  
+
+## required libraries                                  
 ### numpy  
-      pip install numpy
+    pip install numpy
 ### pandas  
-      pip install pandas  
+    pip install pandas  
 ### sklearn  
-      pip install sklearn  
+    pip install sklearn  
 ### nltk  
-pip install nltk
+    pip install nltk
   
 
 The project deals with finding movie and TV show recommendations for the Netflix dataset by implementing the k nearest neighbor method of unsupervised machine learning.
